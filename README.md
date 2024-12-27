@@ -20,7 +20,7 @@ A to-do list app is a digital tool designed to help users manage tasks efficient
 🟢 Get deleted tasks and you could delete them or restore <br>
 
 # Technical
-
+🔵 Clean architecture  <br>
  🔵 Screen Util to make the app responsive <br>
 🔵 Sqlite DataBase with SqFlite for offline storage <br>
 🔵 Bloc as State Managment <br>
