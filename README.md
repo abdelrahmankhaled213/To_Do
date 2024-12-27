@@ -1,5 +1,5 @@
 # To_do _list_app
-
+A to-do list app is a digital tool designed to help users manage tasks efficiently. It provides features for creating, organizing, and tracking tasks, making it a convenient way to stay productive.
 # Features
 
 ⚪ Get Categories <br>
