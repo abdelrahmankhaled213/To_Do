@@ -22,7 +22,7 @@
 # Technical
 
  🔵 Screen Util to make the app responsive <br>
-🔵Sqlite DataBase with SqFlite for offline storage <br>
+🔵 Sqlite DataBase with SqFlite for offline storage <br>
 🔵 Bloc as State Managment <br>
 🔵 Native Splash Screen to create splashscreen for andriod & iOS <br>
  
