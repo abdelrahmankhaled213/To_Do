@@ -2,29 +2,29 @@
 
 # Features
 
-⚪ Get Categories 
-⚪ Add Category and its color
-⚪ Update Category 
-⚪ Delete Category 
+⚪ Get Categories <br>
+⚪ Add Category and its color <br>
+⚪ Update Category <br>
+⚪ Delete Category <br>
 
-⚫ Get tasks Depends on Category and Priority
-⚫ Add task
-⚫ Update task
-⚫ Delete task
-⚫ Priotrize tasks
-⚫ Toggle between Favourite task
+⚫ Get tasks Depends on Category and Priority <br>
+⚫ Add task <br>
+⚫ Update task <br>
+⚫ Delete task <br>
+⚫ Priotrize tasks <br>
+⚫ Toggle between Favourite task <br>
 
-🟢 Get upcoming tasks depends on calendar
-🟢 Get today tasks 
-🟢 Get favourite tasks 
-🟢 Get deleted tasks and you could delete them or restore
+🟢 Get upcoming tasks depends on calendar <br>
+🟢 Get today tasks <br>
+🟢 Get favourite tasks <br>
+🟢 Get deleted tasks and you could delete them or restore <br>
 
 # Technical
 
- 🔵 Screen Util to make the app responsive
-🔵Sqlite DataBase with SqFlite for offline storage
-🔵 Bloc as State Managment
-🔵 Native Splash Screen to create splashscreen for andriod & iOS
+ 🔵 Screen Util to make the app responsive <br>
+🔵Sqlite DataBase with SqFlite for offline storage <br>
+🔵 Bloc as State Managment <br>
+🔵 Native Splash Screen to create splashscreen for andriod & iOS <br>
  
 
 
