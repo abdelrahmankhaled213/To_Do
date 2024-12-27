@@ -25,6 +25,11 @@
 🔵 Sqlite DataBase with SqFlite for offline storage <br>
 🔵 Bloc as State Managment <br>
 🔵 Native Splash Screen to create splashscreen for andriod & iOS <br>
+
+
+
+![Screenshot_20241226_192538](https://github.com/user-attachments/assets/fbc09ca9-9b60-4a98-9b88-45aae56fcb93)
+![home](https://github.com/user-attachments/assets/9d0be4c2-900b-4544-b0c6-7e773b627fe5)
  
 
 
